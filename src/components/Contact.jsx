@@ -44,7 +44,7 @@ const Contact = () => {
             </p>
             <h1 className='social_logo'>
               <a href="https://www.linkedin.com/in/janvee-sharma-ba9963289"><FaLinkedin color='blue' /></a>
-              <a href="https://www.instagram.com/bharat_choudhary_14?igsh=MWh0cTJyeGNyYnN4aQ=="><FaInstagramSquare color='red' /> </a>
+              <a href="https://www.instagram.com/janvee209?igsh=MXJqY2YxOWI2enhkbg=="><FaInstagramSquare color='red' /> </a>
               {/* <a href=""><FaFacebook color='blue'/></a> */}
             </h1>
           </div>

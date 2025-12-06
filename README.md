@@ -55,7 +55,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 📫 Contact
 - **LinkedIn:** [Janvee Sharma](https://www.linkedin.com/in/janvee-sharma-ba9963289)
-- **Instagram:** [bharat_choudhary_14](https://www.instagram.com/bharat_choudhary_14?igsh=MWh0cTJyeGNyYnN4aQ==)
+- **Instagram:** [janvee209](https://www.instagram.com/janvee209?igsh=MXJqY2YxOWI2enhkbg==)
 
 ---
 *Note: This portfolio is hosted on Vercel.*
