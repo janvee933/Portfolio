@@ -52,7 +52,7 @@ const Project = () => {
               booking tickets.At home page there are sections for like popular movies, services, contact-us.
               For backend i have used Node.js with express.js framework.
             </p>
-            <a href="" className='git'><button className='gb'>Github Link: <FaGithub /></button></a>
+            <a href="https://github.com/janvee933/Porfolio" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
           </div>
           <div className="project_card">
             <div className="img_cont">
@@ -66,7 +66,7 @@ const Project = () => {
               application, noraml css for styling, for database management i have used mongodb.It contains login/register and
               home page, where user can select product to buy.
             </p>
-            <a href="" className='git'><button className='gb'>Github Link: <FaGithub /></button></a>
+            <a href="https://github.com/janvee933" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
           </div>
           <div className="project_card">
             <div className="img_cont">
@@ -76,10 +76,10 @@ const Project = () => {
             {/* <h3>Tach Stack Used:html, css, javascript, React.Js</h3> */}
             <h3>Discription:</h3>
             <p>I created a personal portfolio website using HTML, CSS, JavaScript, and React.js, and hosted it on Vercel.
-The Home page includes my introduction and resume, and the site also contains dedicated Projects, Skills, and Contact pages.
-On the Projects page, I have listed my projects in the form of cards, each with a description and a link to the GitHub source code.
+              The Home page includes my introduction and resume, and the site also contains dedicated Projects, Skills, and Contact pages.
+              On the Projects page, I have listed my projects in the form of cards, each with a description and a link to the GitHub source code.
             </p>
-            <a href="" className='git'><button className='gb'>Github Link: <FaGithub /></button></a>
+            <a href="https://github.com/janvee933/Porfolio" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
           </div>
         </div>
       </div>
