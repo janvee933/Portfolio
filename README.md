@@ -54,7 +54,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 📫 Contact
-- **LinkedIn:** [Bharat Choudhary](https://www.linkedin.com/in/bharat-choudhary-933630247/) (Update with your actual link if different)
+- **LinkedIn:** [Janvee Sharma](https://www.linkedin.com/in/janvee-sharma-ba9963289)
 - **Instagram:** [bharat_choudhary_14](https://www.instagram.com/bharat_choudhary_14?igsh=MWh0cTJyeGNyYnN4aQ==)
 
 ---
