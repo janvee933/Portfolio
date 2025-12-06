@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Janvee Sharma - Personal Portfolio
+
+Welcome to my personal portfolio! This repository contains the source code for my portfolio website, built with **React.js**.
+
+## 👩‍💻 About Me
+Hi, I'm **Janvee Sharma** from Bihar. I am currently pursuing a **Master of Computer Applications (MCA)** at **Vivekananda Global University, Jaipur**.
+
+I am passionate about **Web Development** and have technical skills in:
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React.js, Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Concepts:** Data Structures & Algorithms, OOPs
+
+## 🚀 Projects
+Here are some of the projects featured in this portfolio:
+
+### 1. [CineTicket](https://github.com/janvee933/Porfolio) (Online Movie Ticket Booking System)
+A MERN stack application for booking movie tickets online.
+- **Features:** User authentication (Login/Signup), Home page with popular movies, Ticket booking interface.
+- **Backend:** Node.js, Express.js
+
+### 2. Fashionhub (E-Commerce App)
+An e-commerce platform built with the MERN stack.
+- **Tech Stack:** EJS, CSS, MongoDB, Node.js.
+- **Features:** Product browsing, Login/Register functionality.
+
+### 3. Personal Portfolio
+This website! Created using HTML, CSS, JavaScript, and React.js to showcase my skills and projects.
+
+## 🛠️ Installation & Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Prerequisites
+- Node.js installed
 
-In the project directory, you can run:
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/janvee933/Porfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd main
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+   Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### `npm start`
+## 📫 Contact
+- **LinkedIn:** [Bharat Choudhary](https://www.linkedin.com/in/bharat-choudhary-933630247/) (Update with your actual link if different)
+- **Instagram:** [bharat_choudhary_14](https://www.instagram.com/bharat_choudhary_14?igsh=MWh0cTJyeGNyYnN4aQ==)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
+*Note: This portfolio is hosted on Vercel.*
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
