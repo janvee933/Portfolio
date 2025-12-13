@@ -2,7 +2,7 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjanvee933%2FPorfolio)
 
-**Live Demo:** [https://janvee933.github.io/Porfolio](https://janvee933.github.io/Porfolio)
+**Live Demo:** [https://janvee933.github.io/Porfolio]([https://janvee933.github.io/Porfolio](https://janvee933.github.io/Portfolio/))
 
 Welcome to my personal portfolio! This repository contains the source code for my portfolio website, built with **React.js**.
 
