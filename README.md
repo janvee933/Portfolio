@@ -2,7 +2,11 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjanvee933%2FPorfolio)
 
+<<<<<<< HEAD
 **Live Demo:** [https://janvee933.github.io/Porfolio](https://janvee933.github.io/Porfolio)
+=======
+**Live Demo:** [https://janvee933.github.io/Portfolio/](https://janvee933.github.io/Portfolio/)
+>>>>>>> fe712d5a423bcd317decec62a9fa5416c47d7e3f
 
 Welcome to my personal portfolio! This repository contains the source code for my portfolio website, built with **React.js**.
 
@@ -64,3 +68,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ---
 *Note: This portfolio is hosted on Vercel.*
 
+<<<<<<< HEAD
+=======
+# Portfolio
+# Portfolio
+>>>>>>> fe712d5a423bcd317decec62a9fa5416c47d7e3f
