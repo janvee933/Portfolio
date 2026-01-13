@@ -7,11 +7,11 @@ import Contact from './components/Contact';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/Portfolio">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Project" element={<Project />} />
-          <Route path="/Skills" element={<Skills/>} />
+          <Route path="/Skills" element={<Skills />} />
           <Route path="/Contact" element={<Contact />} />
         </Routes>
       </Router>
