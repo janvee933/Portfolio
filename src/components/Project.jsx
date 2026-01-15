@@ -52,7 +52,7 @@ const Project = () => {
               booking tickets.At home page there are sections for like popular movies, services, contact-us.
               For backend i have used Node.js with express.js framework.
             </p>
-            <a href="https://github.com/janvee933/Porfolio" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
+            <a href=" " className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
           </div>
           <div className="project_card">
             <div className="img_cont">
@@ -60,7 +60,7 @@ const Project = () => {
             </div>
             <h1>Fashionhub </h1>
             <h1>(An E-Commerce App)</h1>
-            {/* <h3>Tach Stack Used:html, css, javascript, Node.Js, Express.Js, MongoDB</h3> */}
+            {/* <h3>Tach Stack Used:html, css, javascript, Node.Js,MongoDB</h3> */}
             <h3>Discription:</h3>
             <p>Created an e-commerce app using mern stack.I have used EJS for buliding structure of my
               application, noraml css for styling, for database management i have used mongodb.It contains login/register and
