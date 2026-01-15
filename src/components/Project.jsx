@@ -52,7 +52,7 @@ const Project = () => {
               booking tickets.At home page there are sections for like popular movies, services, contact-us.
               For backend i have used Node.js with express.js framework.
             </p>
-            <a href=" " className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
+            <a href="https://movie-ticket-booking-blush.vercel.app/" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Website Link: <FaGithub /></button></a>
           </div>
           <div className="project_card">
             <div className="img_cont">
@@ -66,7 +66,7 @@ const Project = () => {
               application, noraml css for styling, for database management i have used mongodb.It contains login/register and
               home page, where user can select product to buy.
             </p>
-            <a href="https://github.com/janvee933" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
+            <a href="https://github.com/janvee933/Porfolio" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
           </div>
           <div className="project_card">
             <div className="img_cont">
@@ -79,7 +79,7 @@ const Project = () => {
               The Home page includes my introduction and resume, and the site also contains dedicated Projects, Skills, and Contact pages.
               On the Projects page, I have listed my projects in the form of cards, each with a description and a link to the GitHub source code.
             </p>
-            <a href="https://github.com/janvee933/Porfolio" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
+            <a href="https://janvee933.github.io/Portfolio/" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
           </div>
         </div>
       </div>
