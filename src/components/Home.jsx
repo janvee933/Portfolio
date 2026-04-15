@@ -74,10 +74,10 @@ const Home = () => {
         <div className="intro">
           <h1>About Me</h1>
           <p>
-            Hi, My name is <b>Janvee Sharma</b> I am from Bihar.
-            I am currently pursuing Master of Computer Application from <b>Vivekananda Global University Jaipur</b>.<br />
-            I have developed technical skills in Java, HTML, CSS, JavaScript, Data Structure and Algorithms, and I am
-            particularly passionate about web development. I have worked on projects like e-commerce, Movie_ticket_booking.
+            Hi, my name is <b>Janvee Sharma</b>, and I am from Bihar. I am currently pursuing an MCA from <b>Vivekananda Global University, Jaipur</b>.<br /><br />
+            I am a <b>Full Stack Developer</b> with experience in building end-to-end web applications. I have worked on projects like an E-commerce platform, Movie Ticket Booking system, and a Learning Management System (LMS), where I implemented features like authentication, dashboards, and API integration.
+            <br /><br />
+            I am passionate about developing user-friendly and efficient web solutions using technologies like <b>Java</b>, React, Node.js, and Databases (MongoDB/MySQL).
           </p>
         </div>
       </div>

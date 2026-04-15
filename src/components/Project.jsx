@@ -45,14 +45,13 @@ const Project = () => {
             </div>
             <h1>CineTicket</h1>
             <h1>(Online Movie Ticket Booking)</h1>
-            {/* <h3>Tach Stack Used: html, css, javascript, Node.Js, Express.Js, MongoDB</h3> */}
-            <h3>Discription:</h3>
-            <p>Created an web application on, online movie ticket booking website using mern stack.Web
-              application contain three page, first page for login/register, second page is home page and third page is for
-              booking tickets.At home page there are sections for like popular movies, services, contact-us.
-              For backend i have used Node.js with express.js framework.
+            <h4>Tech Stack Used: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB</h4>
+            <h3>Description:</h3>
+            <p>Created a web application for online movie ticket booking using the MERN stack. The
+              application contains three pages: login/register, a home page, and a ticket booking interface.
+              The home page features popular movies, services, and contact sections.
             </p>
-            <a href="https://movie-ticket-booking-blush.vercel.app/" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Website Link: <FaGithub /></button></a>
+            <a href="https://movie-ticket-booking-blush.vercel.app/" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Project Link: <FaGithub /></button></a>
           </div>
           <div className="project_card">
             <div className="img_cont">
@@ -60,11 +59,11 @@ const Project = () => {
             </div>
             <h1>Fashionhub </h1>
             <h1>(An E-Commerce App)</h1>
-            {/* <h3>Tach Stack Used:html, css, javascript, Node.Js,MongoDB</h3> */}
-            <h3>Discription:</h3>
-            <p>Created an e-commerce app using mern stack.I have used EJS for buliding structure of my
-              application, noraml css for styling, for database management i have used mongodb.It contains login/register and
-              home page, where user can select product to buy.
+            <h4>Tech Stack Used: HTML, CSS, Node.js, MongoDB, EJS</h4>
+            <h3>Description:</h3>
+            <p>Developed an e-commerce platform using the MERN stack. Utilized EJS for the front-end structure,
+              vanilla CSS for styling, and MongoDB for database management. Features include secure
+              user authentication and product browsing.
             </p>
             <a href="https://github.com/janvee933/Porfolio" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
           </div>
@@ -73,11 +72,11 @@ const Project = () => {
               <img src={link3} alt="portfolio" />
             </div>
             <h1>Personal Portfolio</h1>
-            {/* <h3>Tach Stack Used:html, css, javascript, React.Js</h3> */}
-            <h3>Discription:</h3>
-            <p>I created a personal portfolio website using HTML, CSS, JavaScript, and React.js, and hosted it on Vercel.
-              The Home page includes my introduction and resume, and the site also contains dedicated Projects, Skills, and Contact pages.
-              On the Projects page, I have listed my projects in the form of cards, each with a description and a link to the GitHub source code.
+            <h4>Tech Stack Used: HTML, CSS, JavaScript, React.js</h4>
+            <h3>Description:</h3>
+            <p>Built this personal portfolio website using React.js to showcase my skills and projects.
+              Features responsive design, project cards, and smooth navigation. Hosted on Vercel for
+              high performance and availability.
             </p>
             <a href="https://janvee933.github.io/Portfolio/" className='git' target="_blank" rel="noopener noreferrer"><button className='gb'>Github Link: <FaGithub /></button></a>
           </div>

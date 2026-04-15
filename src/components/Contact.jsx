@@ -38,8 +38,8 @@ const Contact = () => {
       <div className="contact_info">
         <div className="info_container">
           <div className="social">
-            <p>As i am actively looking for an entry level position in software development area,
-              So i am looking forword to see some suggestion and exchange of thoughts, so let's connect with me.
+            <p>As i am actively seeking an entry level Full Stack Developer position,
+              I would appreciate the opportunity to connect, exchange ideas, and explore potential opportunities. Please feel free to connect with me through my social media links below.
               here are my social media links.
             </p>
             <h1 className='social_logo'>

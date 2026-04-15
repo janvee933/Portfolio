@@ -3,10 +3,9 @@ import Nav from "./Nav";
 import Footer from './Footer';
 import { useState, useEffect } from 'react';
 import { Bars } from 'react-loader-spinner';
-import img1 from '../images/cpp.svg'
+import img1 from '../images/java.png'
 import img2 from '../images/js.svg'
 import img3 from '../images/nodejs.svg'
-import img4 from '../images/c.png'
 import img5 from '../images/react.svg'
 import img6 from '../images/mongodb.svg'
 import img7 from '../images/html.svg'
@@ -46,16 +45,15 @@ const Skills = () => {
         <div className="technical_skills">
           <h1>Technical Skills</h1>
           <div className="tech_logo">
-            <div className="cnt"><img src={img4} alt="c" /></div>
-            <div className="cnt"><img src={img1} alt="c++" /></div>
-            <div className="cnt"><img src={img7} alt="html" /></div>
-            <div className="cnt"><img src={img8} alt="css" /></div>
-            <div className="cnt"><img src={img2} alt="js" /></div>
-            <div className="cnt"><img src={img3} alt="nodejs" /></div>
-            <div className="cnt"><img src={img9} alt="expressjs" /></div>
-            <div className="cnt"><img src={img5} alt="js" /></div>
-            <div className="cnt"><img src={img6} alt="nodejs" /></div>
-            <div className="cnt"><img src={img10} alt="c++" /></div>
+            <div className="cnt"><img src={img1} alt="Java" /></div>
+            <div className="cnt"><img src={img7} alt="HTML5" /></div>
+            <div className="cnt"><img src={img8} alt="CSS3" /></div>
+            <div className="cnt"><img src={img2} alt="JavaScript" /></div>
+            <div className="cnt"><img src={img3} alt="Node.js" /></div>
+            <div className="cnt"><img src={img9} alt="Express" /></div>
+            <div className="cnt"><img src={img5} alt="React" /></div>
+            <div className="cnt"><img src={img6} alt="MongoDB" /></div>
+            <div className="cnt"><img src={img10} alt="MySQL" /></div>
           </div>
         </div>
         <div className="relevent_coursework">
@@ -68,7 +66,7 @@ const Skills = () => {
               <li>DATABASE MANAGEMENT SYSTEM</li>
             </ul>
             <ul>
-              <li>OOPS(C++)</li>
+              <li>OOPS(JAVA)</li>
               <li>COMPUTER NETWORKING</li>
               <li>CRYPTOGRAPHY</li>
               <li>SOFTWARE ENGINEERING</li>
